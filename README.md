@@ -1,4 +1,3 @@
-``markdown
 # E-commerce gRPC Project in Golang
 
 This is a **simple e-commerce gRPC project** implemented in **Go**, demonstrating:
@@ -208,3 +207,4 @@ You can extend this project easily:
 * [Go gRPC guide](https://pkg.go.dev/google.golang.org/grpc)
 
 ---
+
